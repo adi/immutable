@@ -1,0 +1,11 @@
+[[package]]
+name = "example"
+version = "0.1.0"
+dependencies = [
+ "immutable 0.1.0",
+]
+
+[[package]]
+name = "immutable"
+version = "0.1.0"
+
